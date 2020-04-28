@@ -1,0 +1,16 @@
+ body {    
+ background-color: pink; 
+ } 
+h1 { font-family: verdana; 
+color: black;     
+ } 
+p {     font-family: verdana;     
+font-size: 20px; 
+} 
+
+a {     font-family: verdana;     
+font-size: 20px; 
+} 
+
+ul {    font-family: verdana;
+  list-style-type: circle;
